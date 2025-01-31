@@ -3,6 +3,15 @@
 Este es el README de instrucciones de la prueba. 
 
 
+## Dependencias
+
+- Node.js
+- npm
+- Vite
+- React
+- daysiUI
+- Tailwind CSS
+
 ## Instalación
 
 
@@ -14,10 +23,7 @@ Este es el README de instrucciones de la prueba.
     ```bash
     npm install
     ```
-    o
-    ```bash
-    yarn install
-    ```
+ 
 
 
 
