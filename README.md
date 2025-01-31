@@ -9,8 +9,8 @@ Este es el README de instrucciones de la prueba.
 - npm
 - Vite
 - React
-- daysiUI
 - Tailwind CSS
+- daysiUI
 
 ## Instalación
 
