@@ -5,10 +5,7 @@ Este es el README de instrucciones de la prueba.
 
 ## Instalación
 
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/CesarMartinez7/tu-repositorio.git
-    ```
+
 2. Navega al directorio del proyecto:
     ```bash
     cd tu-repositorio
